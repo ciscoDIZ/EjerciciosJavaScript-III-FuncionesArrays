@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96b14619-1653-4869-bba3-bb551641152b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/EjerciciosJavaScript(III)-FuncionesArrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/ejercicio01.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/ejercicio02.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/pruebaEXPREG.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/ejercicio03.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/ejercicio04.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/ejercicio05.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/ejercicio06.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,17 +42,29 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.ejercicio02.js">
-    <configuration name="ejercicio01.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/ejercicio01.js" working-dir="$PROJECT_DIR$/js">
+  <component name="RunManager" selected="Node.js.ejercicio06.js">
+    <configuration name="ejercicio02.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/ejercicio02.js" working-dir="$PROJECT_DIR$/js">
       <method v="2" />
     </configuration>
-    <configuration name="ejercicio02.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/ejercicio02.js" working-dir="$PROJECT_DIR$/js">
+    <configuration name="ejercicio03.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/ejercicio03.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
+    <configuration name="ejercicio04.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/ejercicio04.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
+    <configuration name="ejercicio05.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/ejercicio05.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
+    <configuration name="ejercicio06.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/ejercicio06.js" working-dir="$PROJECT_DIR$/js">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.ejercicio06.js" />
+        <item itemvalue="Node.js.ejercicio05.js" />
+        <item itemvalue="Node.js.ejercicio04.js" />
+        <item itemvalue="Node.js.ejercicio03.js" />
         <item itemvalue="Node.js.ejercicio02.js" />
-        <item itemvalue="Node.js.ejercicio01.js" />
       </list>
     </recent_temporary>
   </component>
@@ -70,6 +78,7 @@
       <updated>1602602916668</updated>
       <workItem from="1602602917800" duration="5740000" />
       <workItem from="1602753979291" duration="548000" />
+      <workItem from="1602754714147" duration="5707000" />
     </task>
     <servers />
   </component>
@@ -81,22 +90,26 @@
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state x="776" y="338" key="#xdebugger.evaluate/0.0.1920.1044@0.0.1920.1044" timestamp="1602605431187" />
-    <state width="937" height="340" key="GridCell.Tab.0.bottom" timestamp="1602610479545">
-      <screen x="0" y="0" width="1920" height="1044" />
+    <state width="1825" height="275" key="GridCell.Tab.0.bottom" timestamp="1602760413938">
+      <screen x="1360" y="0" width="1920" height="1080" />
     </state>
     <state width="937" height="340" key="GridCell.Tab.0.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1602610479545" />
-    <state width="937" height="340" key="GridCell.Tab.0.center" timestamp="1602610479542">
-      <screen x="0" y="0" width="1920" height="1044" />
+    <state width="1825" height="275" key="GridCell.Tab.0.bottom/1360.0.1920.1080/0.27.1360.741@1360.0.1920.1080" timestamp="1602760413938" />
+    <state width="1825" height="275" key="GridCell.Tab.0.center" timestamp="1602760413938">
+      <screen x="1360" y="0" width="1920" height="1080" />
     </state>
     <state width="937" height="340" key="GridCell.Tab.0.center/0.0.1920.1044@0.0.1920.1044" timestamp="1602610479542" />
-    <state width="937" height="340" key="GridCell.Tab.0.left" timestamp="1602610479540">
-      <screen x="0" y="0" width="1920" height="1044" />
+    <state width="1825" height="275" key="GridCell.Tab.0.center/1360.0.1920.1080/0.27.1360.741@1360.0.1920.1080" timestamp="1602760413938" />
+    <state width="1825" height="275" key="GridCell.Tab.0.left" timestamp="1602760413938">
+      <screen x="1360" y="0" width="1920" height="1080" />
     </state>
     <state width="937" height="340" key="GridCell.Tab.0.left/0.0.1920.1044@0.0.1920.1044" timestamp="1602610479540" />
-    <state width="937" height="340" key="GridCell.Tab.0.right" timestamp="1602610479544">
-      <screen x="0" y="0" width="1920" height="1044" />
+    <state width="1825" height="275" key="GridCell.Tab.0.left/1360.0.1920.1080/0.27.1360.741@1360.0.1920.1080" timestamp="1602760413938" />
+    <state width="1825" height="275" key="GridCell.Tab.0.right" timestamp="1602760413938">
+      <screen x="1360" y="0" width="1920" height="1080" />
     </state>
     <state width="937" height="340" key="GridCell.Tab.0.right/0.0.1920.1044@0.0.1920.1044" timestamp="1602610479544" />
+    <state width="1825" height="275" key="GridCell.Tab.0.right/1360.0.1920.1080/0.27.1360.741@1360.0.1920.1080" timestamp="1602760413938" />
     <state width="937" height="340" key="GridCell.Tab.1.bottom" timestamp="1602610479546">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
@@ -149,6 +162,10 @@
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state x="726" y="290" key="IDE.errors.dialog/0.0.1920.1044@0.0.1920.1044" timestamp="1602603025255" />
+    <state x="2188" y="326" width="325" height="462" key="refactoring.ChangeSignatureDialog" timestamp="1602756285802">
+      <screen x="1360" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2188" y="326" width="325" height="462" key="refactoring.ChangeSignatureDialog/1360.0.1920.1080/0.27.1360.741@1360.0.1920.1080" timestamp="1602756285802" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
