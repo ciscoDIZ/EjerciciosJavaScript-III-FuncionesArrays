@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96b14619-1653-4869-bba3-bb551641152b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js/ejercicio03.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/ejercicio04.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/ejercicio05.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/ejercicio06.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/ejercicio08.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/ejercicio09.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/ejercicio10.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/ejercicio11.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/ejercicio12.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/ejercicio01.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/ejercicio01.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/ejercicio02.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/ejercicio02.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/ejercicio03.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/ejercicio03.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/ejercicio04.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/ejercicio04.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/ejercicio05.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/ejercicio05.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/ejercicio06.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/ejercicio06.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/pruebaEXPREG.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/ejercicio07.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +42,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EjerciciosJavascriptIVArgumentsExpresionesregulares" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -42,29 +51,29 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.ejercicio06.js">
-    <configuration name="ejercicio02.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/ejercicio02.js" working-dir="$PROJECT_DIR$/js">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.ejercicio03.js">
     <configuration name="ejercicio03.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/ejercicio03.js" working-dir="$PROJECT_DIR$/js">
       <method v="2" />
     </configuration>
-    <configuration name="ejercicio04.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/ejercicio04.js" working-dir="$PROJECT_DIR$/js">
+    <configuration name="ejercicio08.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/ejercicio08.js" working-dir="$PROJECT_DIR$/js">
       <method v="2" />
     </configuration>
-    <configuration name="ejercicio05.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/ejercicio05.js" working-dir="$PROJECT_DIR$/js">
+    <configuration name="ejercicio09.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/ejercicio09.js" working-dir="$PROJECT_DIR$/js">
       <method v="2" />
     </configuration>
-    <configuration name="ejercicio06.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/ejercicio06.js" working-dir="$PROJECT_DIR$/js">
+    <configuration name="ejercicio10.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/ejercicio10.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
+    <configuration name="ejercicio11.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/ejercicio11.js" working-dir="$PROJECT_DIR$/js">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.ejercicio06.js" />
-        <item itemvalue="Node.js.ejercicio05.js" />
-        <item itemvalue="Node.js.ejercicio04.js" />
         <item itemvalue="Node.js.ejercicio03.js" />
-        <item itemvalue="Node.js.ejercicio02.js" />
+        <item itemvalue="Node.js.ejercicio11.js" />
+        <item itemvalue="Node.js.ejercicio10.js" />
+        <item itemvalue="Node.js.ejercicio09.js" />
+        <item itemvalue="Node.js.ejercicio08.js" />
       </list>
     </recent_temporary>
   </component>
@@ -78,70 +87,105 @@
       <updated>1602602916668</updated>
       <workItem from="1602602917800" duration="5740000" />
       <workItem from="1602753979291" duration="548000" />
-      <workItem from="1602754714147" duration="5707000" />
+      <workItem from="1602754714147" duration="6610000" />
+      <workItem from="1602785230124" duration="1741000" />
+      <workItem from="1602793199035" duration="9864000" />
+      <workItem from="1602819013334" duration="4091000" />
+      <workItem from="1602861069041" duration="6125000" />
+      <workItem from="1602886862219" duration="607000" />
+      <workItem from="1602944442672" duration="9000" />
+      <workItem from="1603065535047" duration="4255000" />
     </task>
+    <task id="LOCAL-00001" summary="ejercicio 6">
+      <created>1602760725019</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602760725019</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ejercicio 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejercicio 6" />
   </component>
   <component name="WindowStateProjectService">
     <state x="776" y="338" key="#xdebugger.evaluate" timestamp="1602605431187">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state x="776" y="338" key="#xdebugger.evaluate/0.0.1920.1044@0.0.1920.1044" timestamp="1602605431187" />
-    <state width="1825" height="275" key="GridCell.Tab.0.bottom" timestamp="1602760413938">
+    <state x="1846" y="101" width="1009" height="911" key="CommitChangelistDialog2" timestamp="1602760724948">
+      <screen x="1360" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1846" y="101" width="1009" height="911" key="CommitChangelistDialog2/1360.0.1920.1080/0.27.1360.741@1360.0.1920.1080" timestamp="1602760724948" />
+    <state x="2139" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1603066152640">
+      <screen x="1360" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2139" y="311" width="424" height="491" key="FileChooserDialogImpl/1360.0.1920.1080/0.27.1360.741@1360.0.1920.1080" timestamp="1603066152640" />
+    <state width="1825" height="275" key="GridCell.Tab.0.bottom" timestamp="1603066204129">
       <screen x="1360" y="0" width="1920" height="1080" />
     </state>
     <state width="937" height="340" key="GridCell.Tab.0.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1602610479545" />
-    <state width="1825" height="275" key="GridCell.Tab.0.bottom/1360.0.1920.1080/0.27.1360.741@1360.0.1920.1080" timestamp="1602760413938" />
-    <state width="1825" height="275" key="GridCell.Tab.0.center" timestamp="1602760413938">
+    <state width="1825" height="275" key="GridCell.Tab.0.bottom/1360.0.1920.1080/0.27.1360.741@1360.0.1920.1080" timestamp="1603066204129" />
+    <state width="1825" height="275" key="GridCell.Tab.0.center" timestamp="1603066204129">
       <screen x="1360" y="0" width="1920" height="1080" />
     </state>
     <state width="937" height="340" key="GridCell.Tab.0.center/0.0.1920.1044@0.0.1920.1044" timestamp="1602610479542" />
-    <state width="1825" height="275" key="GridCell.Tab.0.center/1360.0.1920.1080/0.27.1360.741@1360.0.1920.1080" timestamp="1602760413938" />
-    <state width="1825" height="275" key="GridCell.Tab.0.left" timestamp="1602760413938">
+    <state width="1825" height="275" key="GridCell.Tab.0.center/1360.0.1920.1080/0.27.1360.741@1360.0.1920.1080" timestamp="1603066204129" />
+    <state width="1825" height="275" key="GridCell.Tab.0.left" timestamp="1603066204129">
       <screen x="1360" y="0" width="1920" height="1080" />
     </state>
     <state width="937" height="340" key="GridCell.Tab.0.left/0.0.1920.1044@0.0.1920.1044" timestamp="1602610479540" />
-    <state width="1825" height="275" key="GridCell.Tab.0.left/1360.0.1920.1080/0.27.1360.741@1360.0.1920.1080" timestamp="1602760413938" />
-    <state width="1825" height="275" key="GridCell.Tab.0.right" timestamp="1602760413938">
+    <state width="1825" height="275" key="GridCell.Tab.0.left/1360.0.1920.1080/0.27.1360.741@1360.0.1920.1080" timestamp="1603066204129" />
+    <state width="1825" height="275" key="GridCell.Tab.0.right" timestamp="1603066204129">
       <screen x="1360" y="0" width="1920" height="1080" />
     </state>
     <state width="937" height="340" key="GridCell.Tab.0.right/0.0.1920.1044@0.0.1920.1044" timestamp="1602610479544" />
-    <state width="1825" height="275" key="GridCell.Tab.0.right/1360.0.1920.1080/0.27.1360.741@1360.0.1920.1080" timestamp="1602760413938" />
-    <state width="937" height="340" key="GridCell.Tab.1.bottom" timestamp="1602610479546">
-      <screen x="0" y="0" width="1920" height="1044" />
+    <state width="1825" height="275" key="GridCell.Tab.0.right/1360.0.1920.1080/0.27.1360.741@1360.0.1920.1080" timestamp="1603066204129" />
+    <state width="1825" height="340" key="GridCell.Tab.1.bottom" timestamp="1602866308785">
+      <screen x="1360" y="0" width="1920" height="1080" />
     </state>
     <state width="937" height="340" key="GridCell.Tab.1.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1602610479546" />
-    <state width="937" height="340" key="GridCell.Tab.1.center" timestamp="1602610479546">
-      <screen x="0" y="0" width="1920" height="1044" />
+    <state width="1825" height="340" key="GridCell.Tab.1.bottom/1360.0.1920.1080/0.27.1360.741@1360.0.1920.1080" timestamp="1602866308785" />
+    <state width="1825" height="340" key="GridCell.Tab.1.center" timestamp="1602866308785">
+      <screen x="1360" y="0" width="1920" height="1080" />
     </state>
     <state width="937" height="340" key="GridCell.Tab.1.center/0.0.1920.1044@0.0.1920.1044" timestamp="1602610479546" />
-    <state width="937" height="340" key="GridCell.Tab.1.left" timestamp="1602610479545">
-      <screen x="0" y="0" width="1920" height="1044" />
+    <state width="1825" height="340" key="GridCell.Tab.1.center/1360.0.1920.1080/0.27.1360.741@1360.0.1920.1080" timestamp="1602866308785" />
+    <state width="1825" height="340" key="GridCell.Tab.1.left" timestamp="1602866308785">
+      <screen x="1360" y="0" width="1920" height="1080" />
     </state>
     <state width="937" height="340" key="GridCell.Tab.1.left/0.0.1920.1044@0.0.1920.1044" timestamp="1602610479545" />
-    <state width="937" height="340" key="GridCell.Tab.1.right" timestamp="1602610479546">
-      <screen x="0" y="0" width="1920" height="1044" />
+    <state width="1825" height="340" key="GridCell.Tab.1.left/1360.0.1920.1080/0.27.1360.741@1360.0.1920.1080" timestamp="1602866308785" />
+    <state width="1825" height="340" key="GridCell.Tab.1.right" timestamp="1602866308785">
+      <screen x="1360" y="0" width="1920" height="1080" />
     </state>
     <state width="937" height="340" key="GridCell.Tab.1.right/0.0.1920.1044@0.0.1920.1044" timestamp="1602610479546" />
-    <state width="937" height="340" key="GridCell.Tab.2.bottom" timestamp="1602610479548">
-      <screen x="0" y="0" width="1920" height="1044" />
+    <state width="1825" height="340" key="GridCell.Tab.1.right/1360.0.1920.1080/0.27.1360.741@1360.0.1920.1080" timestamp="1602866308785" />
+    <state width="1825" height="340" key="GridCell.Tab.2.bottom" timestamp="1602866308785">
+      <screen x="1360" y="0" width="1920" height="1080" />
     </state>
     <state width="937" height="340" key="GridCell.Tab.2.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1602610479548" />
-    <state width="937" height="340" key="GridCell.Tab.2.center" timestamp="1602610479547">
-      <screen x="0" y="0" width="1920" height="1044" />
+    <state width="1825" height="340" key="GridCell.Tab.2.bottom/1360.0.1920.1080/0.27.1360.741@1360.0.1920.1080" timestamp="1602866308785" />
+    <state width="1825" height="340" key="GridCell.Tab.2.center" timestamp="1602866308785">
+      <screen x="1360" y="0" width="1920" height="1080" />
     </state>
     <state width="937" height="340" key="GridCell.Tab.2.center/0.0.1920.1044@0.0.1920.1044" timestamp="1602610479547" />
-    <state width="937" height="340" key="GridCell.Tab.2.left" timestamp="1602610479547">
-      <screen x="0" y="0" width="1920" height="1044" />
+    <state width="1825" height="340" key="GridCell.Tab.2.center/1360.0.1920.1080/0.27.1360.741@1360.0.1920.1080" timestamp="1602866308785" />
+    <state width="1825" height="340" key="GridCell.Tab.2.left" timestamp="1602866308785">
+      <screen x="1360" y="0" width="1920" height="1080" />
     </state>
     <state width="937" height="340" key="GridCell.Tab.2.left/0.0.1920.1044@0.0.1920.1044" timestamp="1602610479547" />
-    <state width="937" height="340" key="GridCell.Tab.2.right" timestamp="1602610479548">
-      <screen x="0" y="0" width="1920" height="1044" />
+    <state width="1825" height="340" key="GridCell.Tab.2.left/1360.0.1920.1080/0.27.1360.741@1360.0.1920.1080" timestamp="1602866308785" />
+    <state width="1825" height="340" key="GridCell.Tab.2.right" timestamp="1602866308785">
+      <screen x="1360" y="0" width="1920" height="1080" />
     </state>
     <state width="937" height="340" key="GridCell.Tab.2.right/0.0.1920.1044@0.0.1920.1044" timestamp="1602610479548" />
+    <state width="1825" height="340" key="GridCell.Tab.2.right/1360.0.1920.1080/0.27.1360.741@1360.0.1920.1080" timestamp="1602866308785" />
     <state width="937" height="340" key="GridCell.Tab.3.bottom" timestamp="1602610479550">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
@@ -162,15 +206,45 @@
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state x="726" y="290" key="IDE.errors.dialog/0.0.1920.1044@0.0.1920.1044" timestamp="1602603025255" />
+    <state x="1951" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1602785238772">
+      <screen x="1360" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1951" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/1360.0.1920.1080/0.27.1360.741@1360.0.1920.1080" timestamp="1602785238772" />
     <state x="2188" y="326" width="325" height="462" key="refactoring.ChangeSignatureDialog" timestamp="1602756285802">
       <screen x="1360" y="0" width="1920" height="1080" />
     </state>
     <state x="2188" y="326" width="325" height="462" key="refactoring.ChangeSignatureDialog/1360.0.1920.1080/0.27.1360.741@1360.0.1920.1080" timestamp="1602756285802" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/ejercicio06.js</url>
+          <line>63</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/ejercicio09.js</url>
+          <line>21</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/ejercicio10.js</url>
+          <line>10</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/ejercicio11.js</url>
+          <line>38</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="NodeJSConfigurationType">
         <watch expression="arguments.length" language="JavaScript" />
+        <watch expression="array.length" language="JavaScript" />
+        <watch expression="repeticiones.indexOf(num)" language="JavaScript" />
       </configuration>
     </watches-manager>
   </component>

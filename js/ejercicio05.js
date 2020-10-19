@@ -49,7 +49,7 @@ function intercambio(array, li, ls){
 let array = genArray();
 
 ordenar(array,0, array.length-1);
-
+console.log(array.length);
 for (let i = 0; i < array.length; i++) {
     console.log(array[i]);
 }
